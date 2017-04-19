@@ -1,0 +1,40 @@
+/*border color: #bdc3c7
+date color: #3498db
+h2 color: #2c3e50
+
+font: source sans pro*/
+
+
+body {
+    border: 20px solid #bdc3c7;
+    padding: 10px;
+    margin: 20px auto;
+    max-width: 700px;
+    width: 80%;
+    font-family: "Source Sans Pro"
+}
+
+.date {
+    color: #3498db;
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+    font-weight: 700;
+}
+
+.indented {
+    padding-left: 5px;
+    border-left: 4px solid #bdc3c7;
+}
+
+.blogPost {
+    margin: 5px;
+}
+
+h2 {
+    color: #2c3e50;
+}
+
+
+hr {
+    color: #bdc3c7;
+}

@@ -1,0 +1,96 @@
+Find all employees and their territories.
+
+
+
+
+Which employees have the most territories?
+
+
+
+
+Which orders were placed between Aug 1997 and Sept 1997?
+
+
+
+
+Which employees were hired in May?
+
+
+
+
+Get the first 5 products with the most stock.
+
+
+
+
+Find the most ordered product.
+
+
+
+
+Who is the top supplier for any product in all shipped orders?
+
+
+
+
+Add a new category
+
+
+
+
+Add a new product into that category (use the name to find the ID).
+
+
+
+
+Show products and count of sales per product, include zero if product was never sold.
+
+
+
+
+Show all products sold and the average sale price for each product.
+
+
+
+
+Show the least ordered of all products based total units sold.
+
+
+
+
+Show the 10 most ordered products.
+
+
+
+
+Find employees that are assigned to at least half the territories in their region.
+
+
+
+
+Increase units in stock by 10 for all Products.
+
+
+
+
+Set reorder level of 20 for all products with units in stock < 20.
+
+
+
+
+Remove order #10250 and its order details.
+
+
+
+
+Find suppliers that have less than 3 unique products that sold (there are at least 13 suppliers fitting this description and maybe more).
+
+
+
+
+Using the new product you added in #9, insert an order for this product into the database. Hint - You will need to insert or update the following tables: Order, OrderDetails, & one more table (This one is up to you to figure out).
+
+
+
+
+Anne King has recently remarried and is now Anne Dodsworth, and she is also moving from the Minneapolis territory to the Philadelphia territory. Update the database to reflect this.
